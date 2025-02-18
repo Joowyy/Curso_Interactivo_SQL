@@ -1,1 +1,2 @@
-# SQL_Apuntes
+Este repositorio contiene la información necesaria para poder empezar con MySQL.
+Contiene los conceptos más básicos de SQL, así como SUBCONSULTAS, JOIN, WHERE...
